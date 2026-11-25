@@ -1,0 +1,2 @@
+2026-11-25 15:04:36,108 | INFO | bacaa666-7cbd-40e6-be19-e6b937c36fe9 | access | GET /user/demo 200 3.13ms
+2026-11-25 15:05:26,064 | INFO | eb5fd959-f46a-47ef-b13e-0f6ea1879f93 | access | GET /user/demo 200 3.67ms
